@@ -76,4 +76,4 @@ This project was built as a school Computer Science project to apply core progra
 - Add more games to the same application
 
 ---
-*Built as a school project under the guidance of my Computer Science teacher.*
+
