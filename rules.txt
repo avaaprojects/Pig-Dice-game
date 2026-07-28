@@ -1,0 +1,10 @@
+Welcome to PIG!
+
+Rules:
+
+(1) PIG can have a minimum of TWO players and maximum of FOUR.
+(2) Each player rolls a six-sided die.
+(3) Rolling of any number OTHER THAN 1 increases their total score by that number. The current player can choose to continue/discontinue the game, keeping their current score.
+(4) If the rolled number IS 1, the total score goes down to ZERO and the player loses their chance. The next player starts their turn.
+(5) The game is continued till one of the players reaches a score GREATER THAN OR EQUAL TO 50.
+(6) All other players get one last turn until the winner is determined.
